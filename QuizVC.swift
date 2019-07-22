@@ -1,6 +1,6 @@
 
 import UIKit
-
+//based on https://github.com/Akhilendra/Quiz-App-iOS
 struct Question {
     let imgName: String
     let questionText: String
